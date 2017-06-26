@@ -5,7 +5,8 @@
   "bin": "bin/gzb64",
   "main": "bin/gzb64",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postversion": "git push && git push --tags"
   },
   "repository": {
     "type": "git",
@@ -16,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/frieck/gzb64-cli/issues"
   },
-  "homepage": "https://github.com/frieck/gzb64-cli"
+  "homepage": "https://github.com/frieck/gzb64-cli",
+  "dependencies": {
+    "clipboardy": "^1.1.4",
+    "commander": "^2.10.0"
+  }
 }
