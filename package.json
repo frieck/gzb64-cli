@@ -1,20 +1,20 @@
 {
-    "name": "gzb64-cli",
-    "version": "1.1.0",
-    "description": "Simple CLI tool for encoding/decoding files as gzb64",
-    "bin": "bin/gzb64",
-    "main": "bin/gzb64",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git://github.com/frieck/gzb64-cli.git"
-    },
-    "author": "Felipe Augusto Rieck",
-    "license": "MIT",
-    "bugs": {
-        "url": "https://github.com/frieck/gzb64-cli/issues"
-    },
-    "homepage": "https://github.com/frieck/gzb64-cli"
+  "name": "gzb64-cli",
+  "version": "1.1.1",
+  "description": "Simple CLI tool for encoding/decoding files as gzb64",
+  "bin": "bin/gzb64",
+  "main": "bin/gzb64",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/frieck/gzb64-cli.git"
+  },
+  "author": "Felipe Augusto Rieck",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/frieck/gzb64-cli/issues"
+  },
+  "homepage": "https://github.com/frieck/gzb64-cli"
 }
