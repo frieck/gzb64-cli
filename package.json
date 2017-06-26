@@ -1,6 +1,6 @@
 {
   "name": "gzb64-cli",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Simple CLI tool for encoding/decoding files as gzb64",
   "bin": "bin/gzb64",
   "main": "bin/gzb64",
